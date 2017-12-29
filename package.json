@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "check the weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesoma/weather-app.git"
+  },
+  "author": "Charles Oma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charlesoma/weather-app/issues"
+  },
+  "homepage": "https://github.com/charlesoma/weather-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
