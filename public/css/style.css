@@ -73,3 +73,13 @@ fieldset {
 p {
   color: blue;
 }
+h1 {
+  text-align: center;
+  color: blue;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  cursor: pointer;
+}
